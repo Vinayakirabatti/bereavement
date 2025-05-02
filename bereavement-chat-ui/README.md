@@ -1,5 +1,7 @@
 # React + Vite
 
+run application : npm dev run
+
 -- Installation required :
 
 npm create vite@latest bereavement-chat-ui --template react
