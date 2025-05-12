@@ -1,0 +1,20 @@
++--------------------------+   User Interacts   +----------------------------+
+|     User Interface        |  <-------------->  |      Streamlit Backend     |
+|   (Streamlit Chatbot UI)  |                    |      (State Management)    |
+|    - Buttons (Radio, etc.)|                    |    - File Handling         |
+|    - File Uploader        |                    |    - File Upload           |
+|    - Links to Services    |                    |    - State Management      |
++--------------------------+                    +----------------------------+
+              |                                                |
+              v                                                v
+   +----------------------+                          +--------------------+
+   |   External Services  |                          |   Cloud Storage    |
+   |  (Death Notification |                          |  (AWS S3, Google   |
+   |  Service, Forms, etc.)|                          |  Cloud Storage)    |
+   +----------------------+                          +--------------------+
+              |
+              v
+     +-----------------------+
+     |   Email API (SendGrid) |
+     |   Notifications       |
+     +-----------------------+
