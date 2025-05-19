@@ -1,0 +1,20 @@
+=== Chat Session ===
+[14:28:05] You: My father passed away. How do I notify the bank?
+[14:28:05] Bot: I'm truly sorry for your loss. You can notify us online, by phone, or by visiting a branch. Let me guide you through the steps.
+[14:28:24] You: What documents do I need to submit after someone's death?
+[14:28:24] Bot: I'm here to help. Typically, you'll need the death certificate, ID of the notifier, and proof of your relationship. Some accounts may also need a probate letter.
+[14:28:32] You: Can I close my mother’s account now that she’s passed?
+[14:28:32] Bot: I’m sorry for your loss. Yes, the account can be closed once the necessary documents are submitted. I can assist you with the next steps.
+[14:31:19] You: Can I close my mother’s account now that she’s passed?
+[14:31:19] Bot: I’m sorry for your loss. Yes, the account can be closed once the necessary documents are submitted. I can assist you with the next steps.
+[14:31:27] You: Can I close my mother’s account now that she’s passed?
+[14:31:27] Bot: I’m sorry for your loss. Yes, the account can be closed once the necessary documents are submitted. I can assist you with the next steps.
+[14:31:30] You: Can I close my mother’s account now that she’s passed?
+[14:31:30] Bot: I’m sorry for your loss. Yes, the account can be closed once the necessary documents are submitted. I can assist you with the next steps.
+[14:31:32] You: Can I close my mother’s account now that she’s passed?
+[14:31:32] Bot: I’m sorry for your loss. Yes, the account can be closed once the necessary documents are submitted. I can assist you with the next steps.
+[14:31:33] You: Can I close my mother’s account now that she’s passed?
+[14:31:33] Bot: I’m sorry for your loss. Yes, the account can be closed once the necessary documents are submitted. I can assist you with the next steps.
+[14:31:35] You: Can I close my mother’s account now that she’s passed?
+[14:31:35] Bot: I’m sorry for your loss. Yes, the account can be closed once the necessary documents are submitted. I can assist you with the next steps.
+=== End of Session ===
