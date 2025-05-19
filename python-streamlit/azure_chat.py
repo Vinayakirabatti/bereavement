@@ -11,7 +11,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
     for filename in filenames:
         print(os.path.join(dirname, filename))
 
-df=pd.read_csv('/kaggle/input/banking-chatbot/Dataset_Banking_chatbot.csv',encoding='latin')
+df=pd.read_csv('D:/Vinayak/fullstack/bereavement/bereavement/python-streamlit/Dataset_Banking_chatbot.csv',encoding='latin')
 
 
 from nltk.stem import WordNetLemmatizer
